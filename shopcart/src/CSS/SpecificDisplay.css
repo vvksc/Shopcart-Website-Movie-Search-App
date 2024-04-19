@@ -1,0 +1,29 @@
+.main1{
+    margin-top: 20px;
+    height:400px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+}
+.right{
+    width: 45%;
+    
+}
+.left{
+    width: 45%;
+    
+}
+.left>img{
+    height: 100%;
+    width: 100%;
+    
+}.images{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.images>img{
+    height: 60vh;
+    width: 22%;
+}

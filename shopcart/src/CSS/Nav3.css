@@ -1,0 +1,23 @@
+.nav3{
+    background-image: url('https://wallpapercave.com/wp/wp1877575.jpg');
+    background-size:cover;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    color: rgb(242, 237, 237);
+}
+.nav31{
+    width: 30%;
+    text-align:left;
+    position: relative;
+    left: 20px;
+}
+.nav31>h1{
+    font-size: 40px;
+}
+.nav31>button{
+    height: 40px;
+    width: 100px;
+    border-radius: 50px;
+    border:none;
+}
